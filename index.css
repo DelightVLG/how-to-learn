@@ -15,11 +15,17 @@
 @import url(./blocks/table/__cell/_theme/table__cell_theme_dark.css);
 @import url(./blocks/feynman/feynman.css);
 @import url(./blocks/kaufman/kaufman.css);
-@import url(./blocks/footer/footer.css);
 @import url(./blocks/footer/__column/_content/footer__column_content_copyright.css);
+@import url(./blocks/techniques/techniques.css);
+@import url(./blocks/cards/cards.css);
+@import url(./blocks/video/video.css);
+@import url(./blocks/oakley/oakley.css);
+@import url(./blocks/khan/khan.css);
+@import url(./blocks/resources/resources.css);
+@import url(./blocks/footer/footer.css);
 
 /** Оставить пока не примут работу**/
-div, h1, p, img, h2, h3, nav {
-  border: 1px solid red;
-}
+/*div, h1, p, img, h2, h3, nav {
+  outline: 1px solid red;
+}*/
 

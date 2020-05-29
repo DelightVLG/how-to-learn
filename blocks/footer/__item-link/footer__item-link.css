@@ -3,8 +3,11 @@
   font-size: 18px;
   line-height: 30px;
   color: white;
+  opacity: 1;
+  transition: opacity .3s linear .1s;
 }
 
 .footer__item-link:hover {
   color: #2f80ed ;
+  opacity: 0.3;
 }
