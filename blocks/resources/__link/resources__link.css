@@ -1,0 +1,10 @@
+.resources__link {
+  background-color: #fff;
+  opacity: 1;
+  transition: opacity .3s linear .1s;
+}
+
+.resources__link:hover {
+  background-color: #000;
+  opacity: 0.3;
+}
